@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Eastern District Conference]]></title>
         <description><![CDATA[Eastern District Conference]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/edc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 22:11:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 22:19:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/edc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Love is a verb: Barbara and Shirley - Mennonite Church USA]]></title>
+            <description><![CDATA[<article><h1>Love is a verb: Barbara and Shirley - Mennonite Church USA</h1><p>Cyneatha Millsaps is the pastor of Community Mennonite Church in Markham, Illinois, a south suburb of Chicago. Pastor Cyneatha is married to her husband Steven. She is a 2008 graduate of Anabaptist Mennonite Biblical Seminary. What does love look like? There are two women in our congregation who make me smile every time I see ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74c822091897604339971868843d162ac18a2c36.jpg"></article>]]></description>
+            <link>http://mennoniteusa.org/menno-snapshots/love-is-a-verb-barbara-and-shirley/</link>
+            <guid isPermaLink="false">dfa6d23f-addf-47ad-bcfb-8a5ea7e03273</guid>
+            <pubDate>Wed, 16 Mar 2016 22:19:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CLC meets, looks toward the future - Mennonite Church USA]]></title>
             <description><![CDATA[<article><h1>CLC meets, looks toward the future - Mennonite Church USA</h1><p>Participants discuss covenant relationships, peer reviews and church revitalization By Janie Beck Kreider GOSHEN, Indiana (Mennonite Church USA) - Nearly 70 denominational leaders gathered March 7-9 at Silverwood Mennonite Church in Goshen, Indiana, for the second Constituency Leaders Council (CLC) meeting of the 2015-17 biennium.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1037a7a94ab71abf0e197bb0b9e1c7764350f4e1.jpg"></article>]]></description>
