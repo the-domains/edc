@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Eastern District Conference]]></title>
+        <description><![CDATA[Eastern District Conference]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 16 Mar 2016 22:11:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CLC meets, looks toward the future - Mennonite Church USA]]></title>
+            <description><![CDATA[<article><h1>CLC meets, looks toward the future - Mennonite Church USA</h1><p>Participants discuss covenant relationships, peer reviews and church revitalization By Janie Beck Kreider GOSHEN, Indiana (Mennonite Church USA) - Nearly 70 denominational leaders gathered March 7-9 at Silverwood Mennonite Church in Goshen, Indiana, for the second Constituency Leaders Council (CLC) meeting of the 2015-17 biennium.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1037a7a94ab71abf0e197bb0b9e1c7764350f4e1.jpg"></article>]]></description>
+            <link>http://mennoniteusa.org/news/clc-meets-looks-toward-the-future/</link>
+            <guid isPermaLink="false">6c64a051-a749-4ad8-abc5-65ad449ca5aa</guid>
+            <pubDate>Wed, 16 Mar 2016 22:11:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
