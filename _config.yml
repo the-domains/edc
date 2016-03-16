@@ -1,0 +1,29 @@
+name: Eastern District Conference
+favicon: null
+layout_spectrum: 0.9719469891861081
+typography_spectrum: 0.12124556838534772
+title: Eastern District Conference
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.06376547925174236
+  lightness: 0.4678673204034567
+  saturation: 0.6233072155155241
+  rhythmicContrast: 0.34083842672407627
+purpose: []
