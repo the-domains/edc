@@ -1,7 +1,8 @@
 name: Eastern District Conference
 favicon: null
-layout_spectrum: 0.9719469891861081
-typography_spectrum: 0.12124556838534772
+layout_spectrum: 0.98287
+typography_spectrum: 0.50812
+title: Eastern District Conference
 cta:
   domain: null
   bucket: null
