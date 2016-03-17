@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: '1213 W. Chew StreetAllentown, PA 18102 (map)610-730-7114Web:MCUSA Directory, Facebook:CFCAllentownSamuel Claudio, Sr., Co-PastorSamuel Claudio, Jr., Co-Pastor'
-datePublished: '2016-03-17T12:41:44.988Z'
-dateModified: '2016-03-17T12:41:08.375Z'
+datePublished: '2016-03-17T12:44:26.926Z'
+dateModified: '2016-03-17T12:44:01.470Z'
 title: Congregations
 author: []
+sourcePath: _posts/2016-03-17-congregations.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-17-congregations.md
-published: true
 url: congregations/index.html
 _type: WebPage
 
