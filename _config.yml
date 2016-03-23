@@ -1,6 +1,6 @@
 name: Eastern District Conference
 favicon: null
-layout_spectrum: 0.24339
+layout_spectrum: 0.76249
 typography_spectrum: 0.50812
 title: Eastern District Conference
 cta:
@@ -22,8 +22,8 @@ color:
     - '#7b3929'
     - '#fefada'
     - '#f8ff01'
-  brandStrength: 0.06376547925174236
-  lightness: 0.4678673204034567
-  saturation: 0.6233072155155241
-  rhythmicContrast: 0.34083842672407627
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
